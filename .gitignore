@@ -1,0 +1,12 @@
+/dist/
+/nbproject/
+/build/
+/Programs/
+build.xml
+manifest.mf
+meteorological data.xls
+population.txt
+TCS.csv
+Weather.csv
+WeatherTrain.csv
+WeatherValidate.csv

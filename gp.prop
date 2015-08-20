@@ -1,0 +1,12 @@
+#Sun Jul 12 11:02:12 IST 2015
+maxGeneration=10000
+maxLength=256
+minLength=50
+noOfInputReg=7
+noOfOutputReg=7
+populationSize=200
+crossoverRate=100
+tournamentSize=100
+mutationRate=4
+dataSet=WeatherTrain.csv
+train=false
